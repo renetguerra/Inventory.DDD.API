@@ -1,0 +1,6 @@
+{
+  "Inventory.DDD.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\CV\\Pruebas técnicas\\Inventory\\Inventory.DDD\\Inventory.DDD.API",
+  "Inventory.DDD.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\CV\\Pruebas técnicas\\Inventory\\Inventory.DDD\\Inventory.DDD.Application",
+  "Inventory.DDD.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\CV\\Pruebas técnicas\\Inventory\\Inventory.DDD\\Inventory.DDD.Domain",
+  "Inventory.DDD.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\CV\\Pruebas técnicas\\Inventory\\Inventory.DDD\\Inventory.DDD.Infrastructure"
+}

@@ -1,0 +1,17 @@
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Infrastructure\bin\Debug\net6.0\Inventory.DDD.Infrastructure.deps.json
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Infrastructure\bin\Debug\net6.0\Inventory.DDD.Infrastructure.runtimeconfig.json
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Infrastructure\bin\Debug\net6.0\Inventory.DDD.Infrastructure.dll
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Infrastructure\bin\Debug\net6.0\ref\Inventory.DDD.Infrastructure.dll
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Infrastructure\bin\Debug\net6.0\Inventory.DDD.Infrastructure.pdb
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Infrastructure\bin\Debug\net6.0\Inventory.DDD.Domain.dll
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Infrastructure\bin\Debug\net6.0\Inventory.DDD.Domain.pdb
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Infrastructure\obj\Debug\net6.0\Inventory.DDD.Infrastructure.csproj.AssemblyReference.cache
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Infrastructure\obj\Debug\net6.0\Inventory.DDD.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Infrastructure\obj\Debug\net6.0\Inventory.DDD.Infrastructure.AssemblyInfoInputs.cache
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Infrastructure\obj\Debug\net6.0\Inventory.DDD.Infrastructure.AssemblyInfo.cs
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Infrastructure\obj\Debug\net6.0\Inventory.DDD.Infrastructure.csproj.CoreCompileInputs.cache
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Infrastructure\obj\Debug\net6.0\Inventory.DDD.Infrastructure.csproj.CopyComplete
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Infrastructure\obj\Debug\net6.0\Inventory.DDD.Infrastructure.dll
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Infrastructure\obj\Debug\net6.0\ref\Inventory.DDD.Infrastructure.dll
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Infrastructure\obj\Debug\net6.0\Inventory.DDD.Infrastructure.pdb
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Infrastructure\obj\Debug\net6.0\Inventory.DDD.Infrastructure.genruntimeconfig.cache

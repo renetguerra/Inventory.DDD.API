@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lyc5AVKahemUQfGXEjotr9bCqKYp5rILKGjhXvc3K2Q=",
+  "Source": "Inventory.DDD.API",
+  "BasePath": "_content/Inventory.DDD.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

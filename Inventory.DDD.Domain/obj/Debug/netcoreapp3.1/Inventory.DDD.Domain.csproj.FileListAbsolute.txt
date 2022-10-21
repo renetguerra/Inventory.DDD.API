@@ -1,0 +1,10 @@
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Domain\bin\Debug\netcoreapp3.1\Inventory.DDD.Domain.deps.json
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Domain\bin\Debug\netcoreapp3.1\Inventory.DDD.Domain.dll
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Domain\bin\Debug\netcoreapp3.1\Inventory.DDD.Domain.pdb
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Domain\obj\Debug\netcoreapp3.1\Inventory.DDD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Domain\obj\Debug\netcoreapp3.1\Inventory.DDD.Domain.AssemblyInfoInputs.cache
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Domain\obj\Debug\netcoreapp3.1\Inventory.DDD.Domain.AssemblyInfo.cs
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Domain\obj\Debug\netcoreapp3.1\Inventory.DDD.Domain.csproj.CoreCompileInputs.cache
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Domain\obj\Debug\netcoreapp3.1\Inventory.DDD.Domain.dll
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Domain\obj\Debug\netcoreapp3.1\Inventory.DDD.Domain.pdb
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Domain\obj\Debug\netcoreapp3.1\Inventory.DDD.Domain.csproj.AssemblyReference.cache

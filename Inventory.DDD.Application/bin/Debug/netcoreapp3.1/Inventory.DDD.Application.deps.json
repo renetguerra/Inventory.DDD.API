@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Inventory.DDD.Application/1.0.0": {
+        "dependencies": {
+          "Inventory.DDD.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Inventory.DDD.Application.dll": {}
+        }
+      },
+      "Inventory.DDD.Domain/1.0.0": {
+        "runtime": {
+          "Inventory.DDD.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inventory.DDD.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Inventory.DDD.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Application\bin\Debug\net6.0\Inventory.DDD.Application.deps.json
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Application\bin\Debug\net6.0\Inventory.DDD.Application.dll
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Application\bin\Debug\net6.0\ref\Inventory.DDD.Application.dll
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Application\bin\Debug\net6.0\Inventory.DDD.Application.pdb
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Application\bin\Debug\net6.0\Inventory.DDD.Domain.dll
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Application\bin\Debug\net6.0\Inventory.DDD.Infrastructure.dll
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Application\bin\Debug\net6.0\Inventory.DDD.Domain.pdb
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Application\bin\Debug\net6.0\Inventory.DDD.Infrastructure.pdb
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Application\obj\Debug\net6.0\Inventory.DDD.Application.csproj.AssemblyReference.cache
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Application\obj\Debug\net6.0\Inventory.DDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Application\obj\Debug\net6.0\Inventory.DDD.Application.AssemblyInfoInputs.cache
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Application\obj\Debug\net6.0\Inventory.DDD.Application.AssemblyInfo.cs
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Application\obj\Debug\net6.0\Inventory.DDD.Application.csproj.CoreCompileInputs.cache
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Application\obj\Debug\net6.0\Inventory.DDD.Application.csproj.CopyComplete
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Application\obj\Debug\net6.0\Inventory.DDD.Application.dll
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Application\obj\Debug\net6.0\ref\Inventory.DDD.Application.dll
+E:\CV\Pruebas técnicas\Inventory\Inventory.DDD\Inventory.DDD.Application\obj\Debug\net6.0\Inventory.DDD.Application.pdb
